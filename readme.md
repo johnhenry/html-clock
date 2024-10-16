@@ -19,3 +19,9 @@ This project is an HTML, CSS, and JavaScript-based clock. It uses the new CSS tr
 ## Screenshot
 
 ![Clock Screenshot](screenshot.png)
+
+## Deployment
+
+The project is deployed using GitHub Pages. You can access the deployed site at the following URL:
+
+[https://johnhenry.github.io/html-clock/](https://johnhenry.github.io/html-clock/)
